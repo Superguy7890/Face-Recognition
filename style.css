@@ -1,0 +1,13 @@
+body{
+    background-color:rgb(131, 224, 163);
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.heading{
+    width: 80%;
+    font-size: 34px;
+}
+.name_of_objects{
+font-size:18px ;
+color:black;
+}
+
